@@ -1,6 +1,6 @@
 # Multi-Modal Retrieval: Ensemble Embeddings & Diversity-Aware Search
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidolu12/multi-modal-retrieval-system/blob/main/notebooks/01_ensemble_benchmarking.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DavidDeez/multi-modal-retrieval-system/blob/main/notebooks/01_ensemble_benchmarking.ipynb)
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/yourusername/multi-modal-retrieval)
 
 Research project on ensemble embeddings and diversity-aware search for robust multi-modal retrieval.
@@ -22,7 +22,7 @@ Research project on ensemble embeddings and diversity-aware search for robust mu
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/davidolu12/multi-modal-retrieval-system.git
+git clone https://github.com/DavidDeez/multi-modal-retrieval-system.git
 cd multi-modal-retrieval-system
 pip install -r requirements.txt
 
