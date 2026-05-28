@@ -139,4 +139,5 @@ with gr.Blocks(theme=gr.themes.Soft(), title="Advanced Multi-Modal Intelligence 
 
 if __name__ == "__main__":
     print("Launching demo...")
-    demo.launch(share=True, debug=True)
+    port = int(os.environ.get("PORT", 7860))
+    demo.launch(server_name="0.0.0.0", server_port=port)
